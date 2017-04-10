@@ -10,8 +10,7 @@ h2 {
 }
 
 .my_name {
-	position: inherit;
-	clip: rectangle(0px,1000px,200px,0px);
+	position: top left;
 	background-image: url("http://i2.kym-cdn.com/entries/icons/original/000/012/690/Alchemy_Circle_by_Alchemist_Pac.jpg");
 	padding: 250px 0;
 	margin: 30px;
