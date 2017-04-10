@@ -23,14 +23,17 @@ h2 {
 
 .education {
  color: #00008B;
+ font-family: Ariel;
 }
 
 .work_experience {
   color: #B8860B;
+  font-family: Ariel;
 }
 
 .references {
   color: #006400;
+  font-family: Ariel;
 }
 
 #italic {
