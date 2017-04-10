@@ -2,7 +2,7 @@
 h1 {
 	font-size: 24px;
   	font-family: Ariel;
-  	color: #000000;
+  	color: #FFFACD;
 }
 
 body {
@@ -20,6 +20,7 @@ h2 {
 	margin: 30px;
 	z-index: -1;
 	background-repeat: no-repeat;
+	color: #FFFACD;
 }
 
 .education {
