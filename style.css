@@ -1,8 +1,8 @@
 
 h1 {
 	font-size: 24px;
-  font-family: Ariel;
-  color: #FFFADC;
+  	font-family: Ariel;
+  	color: #FFFADC;
 }
 
 h2 {
@@ -10,15 +10,12 @@ h2 {
 }
 
 .my_name {
-position: absolute;
-  background-image: url("http://i2.kym-cdn.com/entries/icons/original/000/012/690/Alchemy_Circle_by_Alchemist_Pac.jpg");
-  background-size: background-size: 500px 100px;;
+	position: absolute;
+	clip: rect(0px,600px,200px,0px);
+	background-image: url("http://i2.kym-cdn.com/entries/icons/original/000/012/690/Alchemy_Circle_by_Alchemist_Pac.jpg");
 	padding: 250px 0;
 	margin: 30px;
-	font-size: 24px;
 	z-index: -1;
-  font-family: Ariel;
-  color: #FFFACD;
 }
 
 .education {
