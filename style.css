@@ -1,1 +1,33 @@
 
+h1 {
+	font-size: 24px;
+  font-family: Ariel;
+  color: #FFFACD;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.my_name {
+  background-image: url("http://i2.kym-cdn.com/entries/icons/original/000/012/690/Alchemy_Circle_by_Alchemist_Pac.jpg");
+  background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+}
+
+.education {
+ color: #00008B;
+}
+
+.work_experience {
+  color: #B8860B;
+}
+
+.references {
+  color: #006400;
+}
+
+#italic {
+  font-style: italic;
+}
