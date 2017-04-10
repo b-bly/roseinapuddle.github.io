@@ -5,6 +5,10 @@ h1 {
   	color: #FFFADC;
 }
 
+body {
+	background-color: #FFFACD;	
+}
+
 h2 {
   font-weight: bold;
 }
