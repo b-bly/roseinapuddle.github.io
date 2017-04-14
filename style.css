@@ -10,6 +10,9 @@ h2 {
   font-weight: bold;
 }
 
+p {
+    margin-left: 40px;
+}
 .my_name {
 	background-image: url("roseinapuddle.github.io/alchemy1.jpg");
 	background-size: contain;
