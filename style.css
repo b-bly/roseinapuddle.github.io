@@ -5,7 +5,7 @@ body {
 	font-size: 20px;
 	font-family: Ariel;
 	line-height: 100%;
-	width: 800px;
+	width: 1000px;
 }
 
 h2 {
@@ -16,14 +16,11 @@ p {
     margin-left: 40px;
 }
 
-.image {
-
-}
 .my_name {
 
 	font-family: Ariel;
 	font-size: 24px;
-	color: #00BFFF;
+	color: #FFF8DC;
 }
 
 .education {
