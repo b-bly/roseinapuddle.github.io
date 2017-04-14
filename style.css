@@ -1,10 +1,11 @@
 
 body {
-	background-color: #FFFACD;
+	background-color: #000000;
 	margin: 40px;
 	font-size: 20px;
 	font-family: Ariel;
 	line-height: 60%;
+	width: 800px;
 }
 
 h2 {
@@ -22,7 +23,7 @@ p {
 
 	font-family: Ariel;
 	font-size: 24px;
-	color: #000000;
+	color: #00BFFF;
 }
 
 .education {
@@ -31,11 +32,11 @@ p {
 }
 
 .work_experience {
-  color: #B8860B;
+  color: #FFC0CB;
 }
 
 .references {
-  color: #006400;
+  color: #FFEFD5;
   line-height: 120%;
 }
 
