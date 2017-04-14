@@ -4,7 +4,7 @@ body {
 	margin: 40px;
 	font-size: 20px;
 	font-family: Ariel;
-	line-height: 60%;
+	line-height: 100%;
 	width: 800px;
 }
 
@@ -27,7 +27,7 @@ p {
 }
 
 .education {
- color: #00008B;
+ color: #B0E0E6;
  
 }
 
