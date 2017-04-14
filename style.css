@@ -38,6 +38,6 @@ p {
   color: #006400;
 }
 
-#italic {
+.italic {
   font-style: italic;
 }
