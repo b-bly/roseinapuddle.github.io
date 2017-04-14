@@ -3,7 +3,8 @@ body {
 	background-color: #FFFACD;
 	margin: 40px;
 	font-size: 12px;
-	font-family: Ariel
+	font-family: Ariel;
+	line-height: 60%;
 }
 
 h2 {
@@ -21,7 +22,7 @@ p {
 
 	font-family: Ariel;
 	font-size: 24px;
-	color: #FFFACD;
+	color: #000000;
 }
 
 .education {
