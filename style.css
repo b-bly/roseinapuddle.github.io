@@ -2,7 +2,7 @@
 body {
 	background-color: #FFFACD;
 	margin: 40px;
-	font-size: 12px;
+	font-size: 20px;
 	font-family: Ariel;
 	line-height: 60%;
 }
@@ -36,7 +36,7 @@ p {
 
 .references {
   color: #006400;
-  line-height: 100%;
+  line-height: 120%;
 }
 
 .italic {
